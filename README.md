@@ -1,4 +1,1 @@
-# 🐾 My First Web Page 
-
-This is my very first project built with HTML while learning web development.  
-The page shows cute cats, fun facts, and images.  
+My first HTML project built while learning web development. A simple page about cute cats.  
